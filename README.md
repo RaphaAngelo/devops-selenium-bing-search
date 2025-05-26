@@ -19,3 +19,4 @@ Este projeto Java utiliza Selenium WebDriver e JUnit 5 para automatizar a busca 
 ## Autor
 
 Aluno do Centro Universitário UNA - Gestão e Qualidade de Software
+Raphael Angelo Mourão Fidelis - 32210565
